@@ -1,0 +1,45 @@
+
+
+#bottom_nav{
+    background: #0067b8 !important;
+    border-radius: 0 !important;
+    
+}
+.is-info{
+    background: #0067b8 !important;
+}
+#bottom_nav > div > span > a{
+    color: #fff;
+}
+#bottom_nav > div > span > i{
+    color: #fff;
+}
+
+#bottom_nav > div > span > a:hover{
+    text-decoration: underline;
+}
+.is-ghost{
+    color: #0067b8 !important;
+    font-weight: bold;
+}
+.d-flex > a{
+    color: #0067b8 !important;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.tag{
+    background: gold !important;
+    color: #000 !important;
+    font-weight: bold;
+}
+#edge{
+    background: url('./images/gldn-MSFT-hero-Edge\ VP4-1260x600.jpg');
+ background-repeat: no-repeat;
+}
+ul > li > a{
+    color: #4a4a4a !important;
+    font-size: 14px;
+}
+ul > li > a:hover{
+    text-decoration: underline
+}
